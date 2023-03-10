@@ -1,4 +1,4 @@
-package ObjectArray;
+package objectArray;
 
 public class Food {
   String name;

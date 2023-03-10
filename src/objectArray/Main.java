@@ -1,4 +1,4 @@
-package ObjectArray;
+package objectArray;
 
 public class Main {
   public static void main(String[] args) {
