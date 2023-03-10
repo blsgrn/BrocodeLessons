@@ -1,5 +1,6 @@
 package inherit;
 
-public class Car {
-
+//child class
+public class Car extends Vehicle {
+  int wheels = 4;
 }
